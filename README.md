@@ -1,2 +1,2 @@
 # ecalculus
-elementary calculus tutorials inspired by perldoc.
+elementary calculus notes/tutorials inspired by perldoc.
